@@ -1,1 +1,1 @@
-# degree-of-profanity-in-tweets
+# Degree-Of-Profanity-In-Tweets
